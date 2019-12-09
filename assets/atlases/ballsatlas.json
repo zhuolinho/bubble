@@ -1,0 +1,161 @@
+{
+    "frames": [
+      {
+        "filename": "bubble1",
+        "frame": {
+          "x": 0,
+          "y": 0,
+          "w": 50,
+          "h": 52
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 50,
+          "h": 52
+        },
+        "sourceSize": {
+          "w": 50,
+          "h": 52
+        }
+      },
+      {
+        "filename": "bubble2",
+        "frame": {
+          "x": 50,
+          "y": 0,
+          "w": 50,
+          "h": 52
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 50,
+          "h": 52
+        },
+        "sourceSize": {
+          "w": 50,
+          "h": 52
+        }
+      },
+      {
+        "filename": "bubble3",
+        "frame": {
+          "x": 0,
+          "y": 52,
+          "w": 50,
+          "h": 52
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 50,
+          "h": 52
+        },
+        "sourceSize": {
+          "w": 50,
+          "h": 52
+        }
+      },
+      {
+        "filename": "bubble4",
+        "frame": {
+          "x": 50,
+          "y": 52,
+          "w": 50,
+          "h": 52
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 50,
+          "h": 52
+        },
+        "sourceSize": {
+          "w": 50,
+          "h": 52
+        }
+      },
+      {
+        "filename": "bubble5",
+        "frame": {
+          "x": 100,
+          "y": 0,
+          "w": 50,
+          "h": 52
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 50,
+          "h": 52
+        },
+        "sourceSize": {
+          "w": 50,
+          "h": 52
+        }
+      },
+      {
+        "filename": "bubble6",
+        "frame": {
+          "x": 100,
+          "y": 52,
+          "w": 50,
+          "h": 52
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 50,
+          "h": 52
+        },
+        "sourceSize": {
+          "w": 50,
+          "h": 52
+        }
+      },
+      {
+        "filename": "bubble7",
+        "frame": {
+          "x": 0,
+          "y": 104,
+          "w": 50,
+          "h": 52
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 50,
+          "h": 52
+        },
+        "sourceSize": {
+          "w": 50,
+          "h": 52
+        }
+      }
+    ],
+    "meta": {
+      "app": "https://www.leshylabs.com/apps/sstool/",
+      "version": "Leshy SpriteSheet Tool v0.8.4",
+      "image": "ballsatlas.png",
+      "size": {
+        "w": 185,
+        "h": 194
+      },
+      "scale": 1
+    }
+  }
